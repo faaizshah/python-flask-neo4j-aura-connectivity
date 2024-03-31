@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+.env
+*.git
+testvenv/
+venv/
+apps/genai 
+docker/genai/
+ml_models/datasets
+ml_models/trained_models_data/genai_pre_trained_models
